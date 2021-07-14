@@ -1,2 +1,4 @@
-# Snake_Game
-Um jogo da cobrinha desenvolvido com HTML, CSS e JS, como parte do bootcamp do DIO de desenvolvimento Web
+## Jogo da cobrinha da Digital Innovation One
+
+![SnakeGame](snakeGame.PNG)
+Tutorial em:https://web.digitalinnovation.one/
