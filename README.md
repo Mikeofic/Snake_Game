@@ -1,4 +1,6 @@
 ## Jogo da cobrinha da Digital Innovation One
 
 ![SnakeGame](snakeGame.PNG)
-Tutorial em:https://web.digitalinnovation.one/
+
+
+Veja ao-vivo em https://mikeofic.github.io/Snake_Game/
